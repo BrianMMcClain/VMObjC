@@ -18,10 +18,10 @@
 		D3514CAA159BFC2D006F8D9D /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		D3514CAB159BFC2D006F8D9D /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		D3514CAC159BFC2D006F8D9D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		D3514CAF159BFC2D006F8D9D /* VMObjC-Info.plist */ = {isa = PBXFileReference; path = "VMObjC-Info.plist"; sourceTree = "<group>"; };
+		D3514CAF159BFC2D006F8D9D /* VMObjC-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "VMObjC-Info.plist"; sourceTree = "<group>"; };
 		D3514CB1159BFC2D006F8D9D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D3514CB3159BFC2D006F8D9D /* VMObjC-Prefix.pch */ = {isa = PBXFileReference; path = "VMObjC-Prefix.pch"; sourceTree = "<group>"; };
-		D3514CB4159BFC2D006F8D9D /* VMObjC.h */ = {isa = PBXFileReference; path = VMObjC.h; sourceTree = "<group>"; };
+		D3514CB3159BFC2D006F8D9D /* VMObjC-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "VMObjC-Prefix.pch"; sourceTree = "<group>"; };
+		D3514CB4159BFC2D006F8D9D /* VMObjC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VMObjC.h; sourceTree = "<group>"; };
 		D3514CB5159BFC2D006F8D9D /* VMObjC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VMObjC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
